@@ -32,4 +32,5 @@ func read(filename string){
             fmt.Printf("%s\n", record[value])
         }
     }
+    fmt.Println("final del método")
 }
